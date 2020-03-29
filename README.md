@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/kugeceo/pinyinziti/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7f6040b7-d9f1-45c7-953e-12ac0ee1b3f1/deploy-status)](https://app.netlify.com/sites/pinyins/deploys)
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
